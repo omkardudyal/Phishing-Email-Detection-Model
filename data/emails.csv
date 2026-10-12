@@ -1,0 +1,61 @@
+subject,body,label
+Urgent: Verify your account,Your account will be suspended today. Verify your password immediately at http://secure-login-verify.example.com,Phishing
+You won a gift card,Congratulations you won a gift card. Claim your prize now by clicking http://claim-prize.example.net,Phishing
+Payment failed,Your payment failed. Update billing details now to avoid service interruption: http://billing-update.example.org,Phishing
+Mailbox full warning,Your mailbox is full. Sign in here to increase storage immediately http://mailbox-quota.example.com,Phishing
+Unusual sign in detected,We detected unusual activity. Confirm your identity and password at http://account-check.example.net,Phishing
+Delivery problem,Your package is on hold. Pay a small redelivery fee using this link http://delivery-fee.example.org,Phishing
+Invoice overdue,Final notice: open the attached invoice and pay now through http://invoice-pay.example.com,Phishing
+Payroll update required,Your salary transfer is pending. Submit bank login information at http://payroll-secure.example.net,Phishing
+Security alert,Your account is at risk. Click here to restore access and confirm your credentials http://restore-access.example.org,Phishing
+Refund available,You are eligible for a refund. Enter card number and bank details at http://refund-center.example.com,Phishing
+Document shared with you,A confidential document was shared. Sign in to view it at http://document-view.example.net,Phishing
+Action required immediately,Failure to act within 24 hours will permanently lock your account. Verify now http://verify-now.example.org,Phishing
+Cloud storage warning,Your files will be deleted unless you validate your account at http://cloud-validation.example.com,Phishing
+Tax refund notice,A tax refund is waiting. Submit personal information to receive it http://tax-refund.example.net,Phishing
+Bank account locked,Your bank access is locked. Unlock it by entering your PIN at http://bank-unlock.example.org,Phishing
+Free phone offer,You have been selected for a free phone. Pay shipping and claim here http://free-phone.example.com,Phishing
+Admin password expiry,Your administrator password expires today. Re-enter your current password at http://password-renew.example.net,Phishing
+Shared photo album,View these private photos after signing in at http://photo-share-login.example.org,Phishing
+Subscription cancelled,Your subscription was cancelled by mistake. Restore it by entering payment details http://restore-subscription.example.com,Phishing
+Voice message waiting,You have a new voice message. Sign in to listen http://voice-message.example.net,Phishing
+Gift delivery confirmation,Confirm your delivery address and card details here http://gift-confirm.example.org,Phishing
+Account verification needed,We need to verify your account information. Use this link now http://verify-profile.example.com,Phishing
+Unpaid toll charge,Pay your outstanding toll fee today to avoid a penalty http://toll-payment.example.net,Phishing
+Important HR form,Complete the confidential HR form using your company password http://hr-form.example.org,Phishing
+Lottery winner notification,You are our lucky winner. Send your details to receive the cash reward http://lottery-claim.example.com,Phishing
+Suspicious activity notice,Confirm your login and one-time code to stop account closure http://login-protect.example.net,Phishing
+Purchase receipt issue,Your receipt is unavailable. Sign in and confirm your card information http://receipt-help.example.org,Phishing
+Final warning,Immediate action required: validate your credentials or lose access http://final-warning.example.com,Phishing
+VPN access expired,Renew your VPN access by logging in through this link http://vpn-renew.example.net,Phishing
+Shared file requires login,Open the secure file and enter your password to continue http://secure-file.example.org,Phishing
+Meeting agenda for Thursday,"Hello team, attached is the agenda for Thursday's project meeting. Please add your updates before noon.",Safe
+Your order has shipped,Your order has shipped. You can check delivery progress in the official app or on the retailer website.,Safe
+Weekly team update,Here is the weekly update. We completed the design review and will discuss the remaining tasks tomorrow.,Safe
+Library book reminder,This is a reminder that your library book is due next Monday. Please contact the library if you need an extension.,Safe
+Class timetable updated,The department timetable has been updated. Please check the college portal you normally use.,Safe
+Project feedback,Thanks for sharing the project draft. I added comments to the document and would appreciate your review.,Safe
+Appointment confirmation,Your appointment is confirmed for 10:30 AM on Tuesday. Call the office if you need to reschedule.,Safe
+Monthly statement ready,Your monthly statement is available in your usual banking app. Contact customer support using the number on your card.,Safe
+Password reset requested,"We received a password reset request. If you made this request, open the service's official app to continue.",Safe
+Team lunch plan,Would everyone be available for lunch after the Friday review? Please reply with your preference.,Safe
+Software maintenance notice,Scheduled maintenance will take place from 11 PM to midnight. No action is required from you.,Safe
+Course registration reminder,Course registration closes on Friday. Please sign in to the college portal using your saved bookmark.,Safe
+Invoice from supplier,Please find the invoice attached for the office supplies delivered last week. Let me know if anything needs correcting.,Safe
+Travel itinerary,Your travel itinerary is attached. Please review the departure time and contact the travel desk with questions.,Safe
+Document review request,Could you review the draft report before our meeting? The file is in the shared team folder.,Safe
+Holiday schedule,The office holiday schedule is now available on the internal notice board.,Safe
+Payment received,We have received your payment. Your receipt is available in the account section of the official website.,Safe
+Event registration confirmation,Thank you for registering for the workshop. We look forward to seeing you on campus.,Safe
+Wi-Fi maintenance,Campus Wi-Fi may be unavailable for a short period tonight while routine maintenance is performed.,Safe
+New policy document,The updated policy document is available in the staff portal. Please read it before the next meeting.,Safe
+Exam timetable,The provisional exam timetable has been published by the department. Please check the official notice board.,Safe
+Delivery completed,"Your parcel was delivered. If you did not receive it, contact the courier through its official app.",Safe
+Feedback survey,Please share feedback about the workshop through the survey linked on the official course page.,Safe
+Project deadline reminder,A reminder that the project report is due on Monday. Contact your mentor if you have questions.,Safe
+Bank service update,Our mobile banking service will be unavailable briefly for scheduled maintenance. Your funds remain unaffected.,Safe
+Attendance summary,Your attendance summary for this month is available on the student portal.,Safe
+Team meeting notes,I have shared the notes from today's meeting in the team folder. Please suggest corrections if needed.,Safe
+Warranty information,Your product warranty details are included in the original purchase documents.,Safe
+Newsletter: October news,"Here are this month's company updates, upcoming events, and staff announcements.",Safe
+Course completion certificate,Your course completion certificate is ready in your learning account. Sign in through the usual website.,Safe
